@@ -1,0 +1,12 @@
+.bar {
+    height: 50px;
+    background-color: steelblue;
+    margin-bottom: 2px;
+    transition: all;
+}
+
+.bar span {
+    margin-left: 10px;
+    color: white;
+    margin-top: auto;
+}
